@@ -1,9 +1,9 @@
 # 💫 Acerca de Mí:
-¡Hola! [cite_start]Soy Héctor Daniel Medina [cite: 1][cite_start], un estudiante avanzado de la Tecnicatura en Análisis de Sistemas Informáticos [cite: 5] [cite_start]con un fuerte interés en el desarrollo de software y el análisis funcional[cite: 7]. [cite_start]Mi formación también incluye la reparación de equipos informáticos, lo que me da una perspectiva integral del hardware y el software.<br><br>
-- [cite_start]👨‍💻 Actualmente estoy profundizando mis conocimientos en **Python (Intermedio)** [cite: 24] [cite_start]y su framework **Django** [cite: 25][cite_start], además de manejar **HTML, CSS, y JavaScript (básico)**[cite: 24].
-- [cite_start]🛢️ Tengo conocimientos en bases de datos **SQL (MySQL, SQLite)**[cite: 24].
-- [cite_start]🛠️ Utilizo herramientas como **Git/GitHub, Visual Studio Code y Trello** en mi día a día[cite: 26].
-- [cite_start]💡 Me desenvuelvo con metodologías ágiles como **Scrum y Kanban**[cite: 22, 28].
+¡Hola! Soy Héctor Daniel Medina, un estudiante avanzado de la Tecnicatura en Análisis de Sistemas Informáticos con un fuerte interés en el desarrollo de software y el análisis funcional. Mi formación también incluye la reparación de equipos informáticos, lo que me da una perspectiva integral del hardware y el software.<br><br>
+- 👨‍💻 Actualmente estoy profundizando mis conocimientos en **Python (Intermedio)** y su framework **Django**, además de manejar **HTML, CSS, y JavaScript (básico)**.
+- 🛢️ Tengo conocimientos en bases de datos **SQL (MySQL, SQLite)**.
+- 🛠️ Utilizo herramientas como **Git/GitHub, Visual Studio Code y Trello** en mi día a día.
+- 💡 Me desenvuelvo con metodologías ágiles como **Scrum y Kanban**.
 
 ## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniiel24.w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-url-personalizada/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielhectormedina24@gmail.com)
